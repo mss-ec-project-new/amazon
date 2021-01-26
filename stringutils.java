@@ -1,3 +1,3 @@
 
-ithis java class contains string fucntions 
+sithis java class contains string fucntions 
 
