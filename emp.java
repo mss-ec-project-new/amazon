@@ -1,3 +1,4 @@
+updating remote repo direcyly
 updated in master branch
 updated in dev branch
 employee information
